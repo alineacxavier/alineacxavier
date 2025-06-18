@@ -1,4 +1,4 @@
-### Heey! Eu sou a Aline Azevedo 👋
+### Heey! Eu sou Aline Azevedo 👋
 
 - 🔭 Olá! Me chamo Aline e tenho 28 anos, sou nordestina arretada e apaixonada por games. Já tive experiência em diversas áreas e hoje me encontrei como Programadora,  especialmente em Front-end. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e também faço bootcamps por fora para aprimorar meus conhecimentos.
 - 🌱 Estudando HTML. CSS e JavaScript
